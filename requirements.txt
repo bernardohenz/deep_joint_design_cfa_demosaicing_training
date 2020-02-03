@@ -3,3 +3,4 @@ keras
 Pillow
 opencv-python
 imageio
+tqdm
